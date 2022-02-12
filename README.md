@@ -1,5 +1,5 @@
 # 42 Piscine (Nov2021)
-This repository contains code developed at 42's Piscine, a 28-day gamified intensive peer to peer bootcamp.
+This repository contains code developed at the 42 Piscine, a 28-day gamified intensive peer to peer bootcamp.
 
 ## About 42 Adelaide 
      42 is a global education initiative that proposes a new way of learning technology: no teachers,
