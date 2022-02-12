@@ -50,4 +50,4 @@ This repository contains code developed at 42's Piscine, a 28-day gamified inten
 
 
 ![42-Adelaide-School](https://user-images.githubusercontent.com/89724783/153709352-71c028c8-6488-4279-ba5e-5cec96711449.jpg)
-  (I am on the left, HI 👋)
+  (I am on the left) HI 👋
